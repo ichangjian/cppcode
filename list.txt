@@ -1,0 +1,6 @@
+clib-chess
+list.txt
+testFace
+testORB
+testQuaternion
+testViz

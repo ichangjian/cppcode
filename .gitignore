@@ -1,0 +1,13 @@
+clib-chess/build
+testFace/build
+testFace/build
+testFace/shape_predictor_68_face_landmarks.dat.bz2
+testFace/shape_predictor_68_face_landmarks.dat
+testORB/build
+testQuaternion/build
+testViz/build
+clib-chess/.vscode/ipch
+testFace/.vscode/ipch
+testORB/.vscode/ipch
+testQuaternion/.vscode/ipch
+testViz/.vscode/ipch

@@ -1,0 +1,12 @@
+/home/hi/workspace/cppcode/clib-chess/p10/IMG_20190613_134559.jpg
+/home/hi/workspace/cppcode/clib-chess/p10/IMG_20190613_134605.jpg
+/home/hi/workspace/cppcode/clib-chess/p10/IMG_20190613_134609.jpg
+/home/hi/workspace/cppcode/clib-chess/p10/IMG_20190613_134612.jpg
+/home/hi/workspace/cppcode/clib-chess/p10/IMG_20190613_134618.jpg
+/home/hi/workspace/cppcode/clib-chess/p10/IMG_20190613_134627.jpg
+/home/hi/workspace/cppcode/clib-chess/p10/IMG_20190613_134643.jpg
+/home/hi/workspace/cppcode/clib-chess/p10/IMG_20190613_134654.jpg
+/home/hi/workspace/cppcode/clib-chess/p10/IMG_20190613_134716.jpg
+/home/hi/workspace/cppcode/clib-chess/p10/IMG_20190613_134732.jpg
+/home/hi/workspace/cppcode/clib-chess/p10/IMG_20190613_134743.jpg
+/home/hi/workspace/cppcode/clib-chess/p10/IMG_20190613_134757.jpg

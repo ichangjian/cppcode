@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.0)
+project(testCLB)
+set(CMAKE_BUILD_TYPE Debug)
+find_package(OpenCV)
+if(OpenCV_FOUND)
+    include_directories(${OpenCV_INCLUDE_DIRS})
+    add_executable(runner calibration.cpp)
+    target_link_libraries(runner ${OpenCV_LIBRARIES})
+
+endif()

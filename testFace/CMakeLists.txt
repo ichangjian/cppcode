@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.0)
+project(testCLB)
+set(CMAKE_BUILD_TYPE Debug)
+find_package(OpenCV)
+add_subdirectory(/home/hi/workspace/dlib dlib_build)
+if(OpenCV_FOUND)
+    include_directories(${OpenCV_INCLUDE_DIRS})
+    add_executable(runner faceMark.cpp)
+    target_link_libraries(runner ${OpenCV_LIBRARIES} dlib::dlib)
+
+endif()
